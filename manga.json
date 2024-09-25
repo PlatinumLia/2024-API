@@ -1,5 +1,4 @@
 {
-  [
     "entrevista": {
       "total_votos": 10000,
       "mangas": [
@@ -45,5 +44,4 @@
         }
       ]
     }
-  ]  
 }
