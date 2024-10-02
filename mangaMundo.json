@@ -1,0 +1,55 @@
+{
+  "total_participantes": 25000,
+  "mangas": [
+    {
+      "titulo": "One Piece",
+      "participantes": 10000,
+      "leitores": 8500
+    },
+    {
+      "titulo": "Naruto",
+      "participantes": 9000,
+      "leitores": 7500
+    },
+    {
+      "titulo": "Dragon Ball",
+      "participantes": 8000,
+      "leitores": 6500
+    },
+    {
+      "titulo": "Attack on Titan",
+      "participantes": 7500,
+      "leitores": 6000
+    },
+    {
+      "titulo": "Death Note",
+      "participantes": 6500,
+      "leitores": 5200
+    },
+    {
+      "titulo": "My Hero Academia",
+      "participantes": 8500,
+      "leitores": 7200
+    },
+    {
+      "titulo": "Fullmetal Alchemist",
+      "participantes": 5000,
+      "leitores": 4200
+    },
+    {
+      "titulo": "Demon Slayer",
+      "participantes": 9000,
+      "leitores": 7800
+    },
+    {
+      "titulo": "Tokyo Ghoul",
+      "participantes": 6000,
+      "leitores": 4500
+    },
+    {
+      "titulo": "Slam Dunk",
+      "participantes": 5500,
+      "leitores": 4000
+    }
+  ]
+}
