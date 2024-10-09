@@ -1,4 +1,4 @@
 # 2024-API
 
 Script Google (link):
-https://script.google.com/macros/s/AKfycbzC6JlHj0-18EknX5dmtlcjMR-QtGehQp1Hc8TmMrEtHzVgL5fGKYXo89vmzSnfzrcz/exec
+https://script.googleusercontent.com/a/macros/escola.pr.gov.br/echo?user_content_key=Xen9vde5txSpshfirPPljth70RHEcIfzdZH0-hT0DDlwRMmuFSRWnyMgyT1oOKKDM_OJSnZtX8_XlRb-NuTSBTJg-amlsT1VOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMi80zadyHLKBGCNaBo701naU8cM07sy4y4YFj_89rZFVdGEXjwTyK-lTj-UhPpOoKeaXoJoAapi8JuHABBizxg4Kdrr3n6O-QgIeBzMzzLEresBlbKTquVaeanUAIaxY0K-4mNqhMbjoYZpTak_o22Q&lib=MwTxihDkxygYn-qB-Lnna2rxLzPCDsMJl
